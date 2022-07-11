@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/saulo/AndroidStudioProjects/FreeLanceeActivity/app/src/main/res/drawable/edit_text_background.xml" value="0.1" />
         <entry key="..\:/Users/saulo/AndroidStudioProjects/FreeLanceeActivity/app/src/main/res/drawable/ic_seta_baixo.xml" value="0.298" />
+        <entry key="..\:/Users/saulo/AndroidStudioProjects/FreeLanceeActivity/app/src/main/res/drawable/spinner_border.xml" value="0.297" />
+        <entry key="..\:/Users/saulo/AndroidStudioProjects/FreeLanceeActivity/app/src/main/res/drawable/tool_bar_shadow.xml" value="0.297" />
         <entry key="..\:/Users/saulo/AndroidStudioProjects/FreeLanceeActivity/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/saulo/AndroidStudioProjects/FreeLanceeActivity/app/src/main/res/layout/activity_splash.xml" value="0.33" />
-        <entry key="..\:/Users/saulo/AndroidStudioProjects/FreeLanceeActivity/app/src/main/res/layout/fragment_filmes.xml" value="0.365625" />
+        <entry key="..\:/Users/saulo/AndroidStudioProjects/FreeLanceeActivity/app/src/main/res/layout/fragment_filmes.xml" value="0.25" />
         <entry key="..\:/Users/saulo/AndroidStudioProjects/FreeLanceeActivity/app/src/main/res/layout/fragment_home.xml" value="0.365625" />
         <entry key="..\:/Users/saulo/AndroidStudioProjects/FreeLanceeActivity/app/src/main/res/layout/fragment_pokedex.xml" value="0.365625" />
       </map>
